@@ -1,0 +1,5 @@
+std_msgs/Header H 
+bool ready
+---
+std_msgs/Header H
+ass2_group25/objects[] detection

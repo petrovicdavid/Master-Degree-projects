@@ -1,0 +1,6 @@
+std_msgs/Header H
+int32 id
+ass1_group25/positions position
+---
+std_msgs/Header H
+bool success

@@ -1,0 +1,147 @@
+Tray 1:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 1 leftover: 0
+Class 8 leftover: 0
+Class 10 leftover: 0
+Class 13 leftover: 0.905486
+Tray 1:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 1 leftover: 0.499261
+Class 8 leftover: 0.825354
+Class 10 leftover: 0.0582686
+Class 13 leftover: 0.804644
+Tray 1:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 1 leftover: 0
+Class 8 leftover: 0
+Class 10 leftover: 0
+Class 13 leftover: 0.80181
+Tray 2:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 4 leftover: 0.864145
+Class 7 leftover: 1
+Class 11 leftover: 1
+Class 12 leftover: 1
+Tray 2:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 4 leftover: 1
+Class 7 leftover: 0.616297
+Class 11 leftover: 1
+Class 12 leftover: 0.680296
+Tray 2:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 4 leftover: 1
+Class 7 leftover: 0.94131
+Class 11 leftover: 0.470205
+Class 12 leftover: 0.421347
+Tray 3:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 2 leftover: 0.364591
+Class 8 leftover: 1
+Class 12 leftover: 0.705977
+Tray 3:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 2 leftover: 0.362738
+Class 8 leftover: 1
+Class 12 leftover: 0.751941
+Tray 3:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 2 leftover: 0
+Class 8 leftover: 1
+Class 12 leftover: 0.424974
+Tray 4:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 5 leftover: 1
+Class 7 leftover: 1
+Class 11 leftover: 0.658309
+Class 12 leftover: 1
+Class 13 leftover: 1
+Tray 4:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 5 leftover: 0.901583
+Class 7 leftover: 0.806603
+Class 11 leftover: 0.61233
+Class 12 leftover: 0
+Class 13 leftover: 1
+Tray 4:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 5 leftover: 0.378481
+Class 7 leftover: 0
+Class 11 leftover: 0.19916
+Class 12 leftover: 0.671612
+Class 13 leftover: 0
+Tray 5:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 3 leftover: 0.485938
+Class 8 leftover: 1
+Class 10 leftover: 0.567733
+Class 13 leftover: 0.75653
+Tray 5:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 3 leftover: 0
+Class 8 leftover: 0
+Class 10 leftover: 0
+Class 13 leftover: 1
+Tray 5:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 3 leftover: 0
+Class 8 leftover: 0.692603
+Class 10 leftover: 0.666756
+Class 13 leftover: 1
+Tray 6:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 4 leftover: 0.679251
+Class 6 leftover: 0.301142
+Class 10 leftover: 1
+Class 12 leftover: 1
+Tray 6:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 4 leftover: 0.716886
+Class 6 leftover: 0.252814
+Class 10 leftover: 1
+Class 12 leftover: 0.969798
+Tray 6:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 4 leftover: 0.466488
+Class 6 leftover: 0.534923
+Class 10 leftover: 0.205197
+Class 12 leftover: 0.732199
+Tray 7:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 4 leftover: 0.602289
+Class 7 leftover: 0.478028
+Class 11 leftover: 0.696788
+Class 12 leftover: 0.948764
+Tray 7:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 4 leftover: 0.642139
+Class 7 leftover: 0.603049
+Class 11 leftover: 0.672352
+Class 12 leftover: 1
+Tray 7:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 4 leftover: 0.425591
+Class 7 leftover: 0
+Class 11 leftover: 0.250256
+Class 12 leftover: 0
+Tray 8:
+Before Image: food_image_mask.png, After Image: leftover1.png
+Class 4 leftover: 0.439069
+Class 9 leftover: 0.520321
+Class 10 leftover: 0
+Class 11 leftover: 1
+Class 12 leftover: 0.451886
+Tray 8:
+Before Image: food_image_mask.png, After Image: leftover2.png
+Class 4 leftover: 0.637495
+Class 9 leftover: 0.65777
+Class 10 leftover: 1
+Class 11 leftover: 0
+Class 12 leftover: 1
+Tray 8:
+Before Image: food_image_mask.png, After Image: leftover3.png
+Class 4 leftover: 0
+Class 9 leftover: 0
+Class 10 leftover: 0
+Class 11 leftover: 0
+Class 12 leftover: 1

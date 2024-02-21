@@ -1,0 +1,11 @@
+#goal definition
+std_msgs/Header H
+pose M
+---
+#result definition
+std_msgs/Header H
+positions[] pos
+---
+#feedback
+std_msgs/Header H
+string f

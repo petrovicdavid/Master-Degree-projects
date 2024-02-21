@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<launch>
+	<include file="$(find tiago_iaslab_simulation)/launch/start_simulation.launch">
+		<arg name="world_name" value="ias_lab_room_full_tables" />
+	</include>
+	<include file="$(find tiago_iaslab_simulation)/launch/apriltag.launch"/>
+	<include file="$(find tiago_iaslab_simulation)/launch/navigation.launch"/>
+	
+	<node name ="human_node" pkg="tiago_iaslab_simulation" type="human_node"/>
+	<node name ="server" pkg="ass1_group25" type="server"/>
+	<node name ="findCenter" pkg="ass1_group25" type="findCenter"/>
+	<node name ="nodeB" pkg="ass2_group25" type="nodeB"/>
+	<node name ="detector_colored_tables" pkg="ass2_group25" type="detector_colored_tables"/>
+	<node name ="arm_controller" pkg="ass2_group25" type="arm_controller"/>
+</launch>

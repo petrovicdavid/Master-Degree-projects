@@ -1,0 +1,5 @@
+# excluding notebooks checkpoints
+.ipynb_checkpoints/
+.vscode/
+*.pdf
+*.pptx
