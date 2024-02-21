@@ -1,10 +1,3 @@
-GROUP 25
-
-David Petrovic, david.petrovic@studenti.unipd.it
-
-Federico Luisetto, federico.luisetto@studenti.unipd.it
-
-Umberto Salviati, umberto.salviati@studenti.unipd.it
 ## Execution commands for 1st assignment
 rosrun ass1_group25 server
 

@@ -38,7 +38,7 @@ def MR_ApproxTCwithNodeColors(edges, C):
     a = rand.randint(1,p-1)
     b = rand.randint(0,p-1)
     def hc(a, b, p, C, u):
-        return ((a * u) % p) % C
+        return ((a * u + b) % p) % C
     
     # coloring edges
     def edge_coloring(edge):
