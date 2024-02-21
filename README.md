@@ -27,7 +27,11 @@ The purpose of this project was to gain a comprehensive understanding of the var
 ### ML - Machine Learning
 Three individual homeworks and various laboratories regarding ML course.
 
-## Colleagues involved in the projects
+## Colleagues involved in the projects (exept for the LFN's one)
 [@fedeluis](https://github.com/fedeluis)
 
 [@Umbomatumbo](https://github.com/Umbomatumbo)
+
+## Colleague involved in the LFN's project
+[@AndreaGhi8](https://github.com/AndreaGhi8)
+
